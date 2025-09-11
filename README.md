@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://mca-programmer.github.io/3G-Architects-website/](https://mca-programmer.github.io/3G-Architects-website/)
+- 👨‍💻 All of my projects are available at [https://mca-programmer.github.io/3G-Architects-website/](https://mca-programmer.github.io/mca-programmer-website/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
 
