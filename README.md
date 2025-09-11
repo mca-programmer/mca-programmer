@@ -6,7 +6,7 @@ I’m a Frontend Web Developer passionate about building clean, responsive, and 
 
 Skills: HTML/CSS/JavaScript/Tailwind CSS/React.js/Node.js
 
-- 🔭 I’m currently working on Programming Hero 
+- 🔭 I’m currently working on MCA Programming  
 - 🌱 I’m currently learning MERN Stack & Advanced JavaScript 
 - 💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js 
 
