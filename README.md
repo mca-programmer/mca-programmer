@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD MUSARRAF HOSEN</h1>
 <h3 align="center">A passionate Front-End Web Developer from Bangladesh 🇧🇩</h3>
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHeZJdrWsnung/profile-displaybackgroundimage-shrink_350_1400/B4EZl6HSxoKYAY-/0/1758690359493?e=1762387200&v=beta&t=reQlfoQenuGGRow0uni-YFPt3OtPxuFzyDfv3zkpOzg" alt="" >
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHeZJdrWsnung/profile-displaybackgroundimage-shrink_350_1400/B4EZl6HSxoKYAY-/0/1758690359493?e=1762387200&v=beta&t=reQlfoQenuGGRow0uni-YFPt3OtPxuFzyDfv3zkpOzg](https://media.licdn.com/dms/image/v2/D4E16AQHeZJdrWsnung/profile-displaybackgroundimage-shrink_200_800/B4EZl6HSxoKYAU-/0/1758690359493?e=1764806400&v=beta&t=RQ7f7S-DRIyc2QKYnhdymOJeSxq-Fkv8foqR_mSf16E" alt="" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mca-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="mca-programmer" /> </p>
 
