@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm MD MUSARRAF HOSEN</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm MD MUSARRAF HOSEN</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Front+End+Web+Developer;JavaScript+Developer;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+  </ul>
+</div>
 <h3 align="center">A passionate Front-End Web Developer from Bangladesh 🇧🇩</h3>
 <img align="centur" src="https://media.licdn.com/dms/image/v2/D4E16AQHeZJdrWsnung/profile-displaybackgroundimage-shrink_200_800/B4EZl6HSxoKYAU-/0/1758690359493?e=1764806400&v=beta&t=RQ7f7S-DRIyc2QKYnhdymOJeSxq-Fkv8foqR_mSf16E" alt="BANNER" >
 
