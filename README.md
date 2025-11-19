@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Web Developer from Bangladesh 🇧🇩</h3>
 <img align="centur" src="https://media.licdn.com/dms/image/v2/D4E16AQHeZJdrWsnung/profile-displaybackgroundimage-shrink_200_800/B4EZl6HSxoKYAU-/0/1758690359493?e=1764806400&v=beta&t=RQ7f7S-DRIyc2QKYnhdymOJeSxq-Fkv8foqR_mSf16E" alt="BANNER" >
 
-<h3>When I code, I rely on</h3>
+<h3>When I code, I rely on creativity.</h3>
 
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
