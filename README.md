@@ -9,6 +9,17 @@
 </div>
 
 
+- 🔭 I’m currently working on [mca programming](https://mca-programmer.github.io/mca-programmer-website/)
+
+- 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://mca-programming](https://mca-programmer.github.io/mca-programmer-website/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
+
+- 📫 How to reach me **freelancermca52@gmail.com**
+
+
 <h3>When I code, I rely on creativity.</h3>
 
 
@@ -41,15 +52,3 @@
 
 
 ---
-
-
-- 🔭 I’m currently working on [mca programming](https://mca-programmer.github.io/mca-programmer-website/)
-
-- 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://mca-programming](https://mca-programmer.github.io/mca-programmer-website/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
-
-- 📫 How to reach me **freelancermca52@gmail.com**
-
