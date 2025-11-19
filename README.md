@@ -14,17 +14,6 @@
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
 
-
-- 🔭 I’m currently working on [mca programming](https://mca-programmer.github.io/mca-programmer-website/)
-
-- 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://mca-programming](https://mca-programmer.github.io/mca-programmer-website/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
-
-- 📫 How to reach me **freelancermca52@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mca-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="mca-programmer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mca-programmer" alt="mca-programmer" /></a> </p>
@@ -38,3 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mca-programmer&show_icons=true&locale=en" alt="mca-programmer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mca-programmer&" alt="mca-programmer" /></p>
+
+
+- 🔭 I’m currently working on [mca programming](https://mca-programmer.github.io/mca-programmer-website/)
+
+- 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://mca-programming](https://mca-programmer.github.io/mca-programmer-website/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
+
+- 📫 How to reach me **freelancermca52@gmail.com**
+
