@@ -9,11 +9,11 @@
 </div>
 
 
-- 🔭 I’m currently working on [mca programming](https://mca-programmer.github.io/mca-programmer-website/)
+- 🔭 I’m currently working on [mca programming](https://my-website-44678.web.app/)
 
 - 🌱 I’m currently learning **MERN Stack & Advanced JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://mca-programming](https://mca-programmer.github.io/mca-programmer-website/)
+- 👨‍💻 All of my projects are available at [https://mca-programming](https://my-website-44678.web.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js**
 
