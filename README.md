@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=MD%20MUSARRAF%20HOSEN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=MD%20MUSARRAF%20HOSEN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&descSize=18" width="100%" />  <img align="centur" src="https://media.licdn.com/dms/image/v2/D4E16AQGPOx_0daVlxg/profile-displaybackgroundimage-shrink_350_1400/B4EZrLN7c4HEAY-/0/1764346042779?e=1766016000&v=beta&t=nNF427-OMT1YaZgwVHcRkptV2cMjJJxvHGqBue1pjHA" alt="BANNER" >
 </div>
 
 
