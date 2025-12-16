@@ -302,20 +302,16 @@ const musarrafHosen = {
 </div>
 
 <br/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mca-programmer/mca-programmer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mca-programmer/mca-programmer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mca-programmer/mca-programmer/output/github-contribution-grid-snake.svg">
-</picture>
 
-<br/><br/>
 
 ---
 
 <!-- Support Section -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Support+My+Work" alt="Support" />
+  
 </div>
 
 <br/>
