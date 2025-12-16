@@ -40,7 +40,7 @@
 
 <!-- About Me Section with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=👨‍💻+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5722&center=true&lines=About+me;mca-programmer" />
 </div>
 
 <br/>
