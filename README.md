@@ -213,13 +213,6 @@ const musarrafHosen = {
 
 <br/>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mca-programmer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
-</div>
-
-<br/>
-
 ---
 
 <!-- Skills Progress Section -->
@@ -373,10 +366,10 @@ If you like my work and want to support me, consider:
 <a href="mailto:freelancermca52@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/md-musarraf-hosen/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
 </a>
-<a href="https://facebook.com/your-profile" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100095485868640" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="35" />
 </a>
 <a href="https://twitter.com/your-profile" target="_blank">
