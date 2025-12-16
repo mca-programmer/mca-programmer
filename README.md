@@ -345,6 +345,10 @@ If you like my work and want to support me, consider:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+> “Code is not just instructions for machines,  
+> it is a language to turn ideas into reality.”  
+> — **MCA-Programmer**
+
 </div>
 
 <br/>
