@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=MD%20MUSARRAF%20HOSEN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </div>
 
+
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -89,7 +90,7 @@ const musarrafHosen = {
 
 <!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=🛠️+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -193,7 +194,7 @@ const musarrafHosen = {
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=📊+GitHub+Statistics" alt="GitHub Statistics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=GitHub+Statistics" alt="GitHub Statistics" />
 </div>
 
 <br/>
@@ -223,7 +224,7 @@ const musarrafHosen = {
 
 <!-- Skills Progress Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=💪+Skills+Overview" alt="Skills Overview" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Skills+Overview" alt="Skills Overview" />
 </div>
 
 <br/>
@@ -246,7 +247,7 @@ const musarrafHosen = {
 
 <!-- Featured Projects Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=🎯+Featured+Projects" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Featured+Projects" alt="Featured Projects" />
 </div>
 
 <br/>
@@ -283,7 +284,7 @@ const musarrafHosen = {
 
 <!-- Current Activity Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🌟+What+I'm+Currently+Working+On" alt="Current Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=What+I'm+Currently+Working+On" alt="Current Activity" />
 </div>
 
 <br/>
@@ -304,7 +305,7 @@ const musarrafHosen = {
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🐍+Contribution+Activity" alt="Contribution Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Contribution+Activity" alt="Contribution Activity" />
 </div>
 
 <br/>
@@ -321,7 +322,7 @@ const musarrafHosen = {
 
 <!-- Support Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=☕+Support+My+Work" alt="Support" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Support+My+Work" alt="Support" />
 </div>
 
 <br/>
@@ -359,7 +360,7 @@ If you like my work and want to support me, consider:
 
 <!-- Connect Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=📫+Let's+Connect!" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Let's+Connect!" alt="Connect" />
 </div>
 
 <br/>
