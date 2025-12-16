@@ -18,10 +18,10 @@
   <a href="mailto:freelancermca52@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/md-musarraf-hosen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100095485868640" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
@@ -428,6 +428,6 @@ Feel free to reach out if you want to:
 
 <br/>
 
-**© 2024 MD MUSARRAF HOSEN. All rights reserved.**
+**© 2026 MD MUSARRAF HOSEN. All rights reserved.**
 
 </div>
