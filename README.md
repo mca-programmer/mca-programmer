@@ -58,7 +58,7 @@ const musarrafHosen = {
     askMeAbout: ["Web Dev", "Frontend", "Backend", "MERN Stack"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Vanilla JS"],
+            js: ["React.js", "Vanilla JS", "Next.js"],
             css: ["Tailwind CSS", "Bootstrap", "Material UI"]
         },
         backEnd: {
