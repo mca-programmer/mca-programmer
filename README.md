@@ -13,7 +13,7 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://my-website-44678.web.app/" target="_blank">
+  <a href="https://musarraf-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:freelancermca52@gmail.com">
@@ -265,7 +265,7 @@ const musarrafHosen = {
 
 | Project | Description | Tech Stack | Live Demo |
 |:---:|:---:|:---:|:---:|
-| **Portfolio Website** | Personal portfolio showcasing my work | React, Tailwind, Firebase | [View](https://my-website-44678.web.app/) |
+| **Portfolio Website** | Personal portfolio showcasing my work | React, Tailwind, Firebase | [View](https://musarraf-portfolio.vercel.app/) |
 | **E-Commerce Platform** | Full-stack shopping application | MERN Stack, Stripe | Coming Soon |
 | **Task Manager** | Collaborative task management tool | React, Node.js, MongoDB | Coming Soon |
 
@@ -360,7 +360,7 @@ If you like my work and want to support me, consider:
 
 <div align="center">
   
-<a href="https://my-website-44678.web.app/" target="_blank">
+<a href="https://musarraf-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="35" />
 </a>
 <a href="mailto:freelancermca52@gmail.com">
